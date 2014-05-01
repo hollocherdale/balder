@@ -11,6 +11,7 @@ gem 'rails', '3.2.14'
 gem 'authlogic'
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'unf'
 
 gem 'mime-types', :require => 'mime/types'
 gem 'carrierwave', '0.6.1'
