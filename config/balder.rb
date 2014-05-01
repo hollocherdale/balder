@@ -1,9 +1,0 @@
-ENV['STORAGE_PATH']       = "uploads" if ENV['STORAGE_PATH'].nil?
-#ENV['PRIVATE']           = 'true'
-#ENV['TITLE']            = 'photo'
-ENV['HEROKU']           = 'true'
-ENV['S3_KEY']           = 'AKIAJ2SWA6MUY3KZBOKA'
-ENV['S3_SECRET']        = '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'
-ENV['S3_BUCKET']        = 'hollocherbalderapp'
-#ENV['FACEBOOK_ID']       = ''
-#ENV['FACEBOOK_SECRET']   = ''
