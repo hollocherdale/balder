@@ -15,6 +15,7 @@ gem 'unf'
 # gem 'acts_as_permissible'
 gem 'dynamic_form'
 gem 'princely'
+gem 'scrypt' 
 
 gem 'mime-types', :require => 'mime/types'
 gem 'carrierwave', '0.6.1'
